@@ -87,7 +87,7 @@ Copiar código
 - Guarda este contenido en tu archivo `README.md` y sube los cambios al repositorio con `git add README.md`, `git commit -m "Add initial README"`, y `git push origin main`.
 - Mantén tu `README.md` actualizado a medida que agregues nuevas características o cambies la estructura del proyecto.
 
-Con esto, tu proyecto ChatQuantum tendrá una buena documentación para empezar. ¡Buena suerte con el desarrollo!
+
 
 
 
